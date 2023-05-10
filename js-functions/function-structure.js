@@ -16,10 +16,11 @@ addTwoNum(); // calling function/invoke
 
 // function with parameter
 
-function sumOfTwoNum(a, b) {
-    var sumResult = a + b;
+function sumOfTwoNum(a, b) {  // a, b is the parameter
 
+    var sumResult = a + b;
     console.log(sumResult);
 
 }
-sumOfTwoNum(10,15); //invoke/calling function with arguments
+sumOfTwoNum(10,15); //invoke/calling function
+                    // 10, 15  is the arguments
