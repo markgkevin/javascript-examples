@@ -20,7 +20,7 @@
 
 //This is Dot notation
 var storeManager = {}  // empty object literals
-storeManager.rangePerTilesTurn = 4 // traits built using dot notation (.)
+storeManager.rangePerTilesTurn = 4; // traits built using dot notation (.)
 storeManager.socialSkills = 50;    // traits built using dot notation (.)
 storeManager.streetSmart = 50;     // traits built using dot notation (.)
 storeManager.health = 80;          // traits built using dot notation (.)
