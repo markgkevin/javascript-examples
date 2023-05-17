@@ -46,6 +46,8 @@
 //     console.error('Cannot add string to number:', error.message);
 // }
 
+//defensive programming
+
 // function letterFinder(word, match) {
 //     var condition1 = typeof (word) === 'string' && word.length >= 2;
 //     var condition2 = typeof (match) === 'string' && match.length == 1;
@@ -65,3 +67,5 @@
 // }
 // letterFinder([], []);
 // letterFinder('cat', 't');
+
+console.log("Hello");
