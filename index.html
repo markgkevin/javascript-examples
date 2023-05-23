@@ -4,10 +4,28 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>HTTPS testing page</title>
   </head>
-  <body>
-    <h1>Hello</h1>
-    <p>This a sample text</p>
+  <body style="margin-left: 10%; margin-right: 10%; margin-top: 10%">
+    <div style="text-align: center">
+      <h1 style="color: green">HTTPS is working</h1>
+      <p>
+        If the page loads without any security warnings and you can see the
+        "HTTPS Test Page" heading along with the accompanying text, then HTTPS
+        is working correctly on your IIS server.
+      </p>
+      <br /><br />
+      <h2 style="color: red">
+        If you see security warning on URL then your SSL Certificate is not
+        working
+      </h2>
+      <p>
+        Note: To enable HTTPS on IIS, you will need to obtain an SSL/TLS
+        certificate from a trusted certificate authority (CA) and configure your
+        IIS website to use that certificate. Additionally, you need to ensure
+        that the necessary bindings and SSL settings are properly configured in
+        IIS. This sample page assumes that HTTPS is already set up correctly.
+      </p>
+    </div>
   </body>
 </html>
