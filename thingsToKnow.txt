@@ -1,0 +1,23 @@
+Javascript things to know
+
+1.
+> equality double equal(==) vs triple equal (===)
+>primitive vs object
+
+error handling
+
+de-structuring
+spread-rest operator template literal string
+array methods
+
+Before moving to react
+>scoping
+>callbacks
+>passing functions
+>reference vs a value
+> advance logic
+>advance array methods
+>immutability  vs mutability(mutable/immutable)
+>async await
+>concepts of modules
+>concepts es6
