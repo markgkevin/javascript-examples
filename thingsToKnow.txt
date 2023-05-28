@@ -21,3 +21,10 @@ Before moving to react
 >async await
 >concepts of modules
 >concepts es6
+
+Priority to learn:
+> Data structure
+> Object Oriented Programming
+> ES6 Modules
+> JS DOM manipulation
+>Javascript Selectors
