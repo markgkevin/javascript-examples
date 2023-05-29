@@ -28,3 +28,5 @@ Priority to learn:
 > ES6 Modules
 > JS DOM manipulation
 >Javascript Selectors
+>Javascript Event  handling
+
