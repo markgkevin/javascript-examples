@@ -21,12 +21,14 @@ Before moving to react
 >async await
 >concepts of modules
 >concepts es6
+> constructor
 
 Priority to learn:
 > Data structure
 > Object Oriented Programming
 > ES6 Modules
 > JS DOM manipulation
->Javascript Selectors
->Javascript Event  handling
+> Javascript Selectors
+> Javascript Event  handling
+> JSON
 
