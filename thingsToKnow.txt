@@ -32,3 +32,10 @@ Priority to learn:
 > Javascript Event  handling
 > JSON
 
+JS to learn React
+> arrow function - anonymous functions
+> ternary operatrs
+> Objects
+> Map, Filter
+> Async-await, Promises, Fetch
+
